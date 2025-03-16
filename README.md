@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👾: sobre mi 
-apacionado por **python** y las redes
+👾 sobre mi. 
+apacionado por **python** y **linux**
+aprendiendo sobre **redes**
+
+
 
