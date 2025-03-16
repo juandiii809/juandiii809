@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👾: sobre mi 
-**apacionado por python y las redes ** 
+apacionado por **python** y las redes
+
