@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👾 sobre mi. 
-🐍🐧   💻 apacionado por **python**, **Django** y **linux**🖥️ 
+🐍🐧   💻 apacionado por **python**, y **linux**🖥️ 
 
 
 
