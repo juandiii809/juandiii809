@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 👾 
 🐍🐧   💻 **python**,**linux**🖥️ 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juandiii809&show_icons=true&theme=tokyonight)
+
 
 
