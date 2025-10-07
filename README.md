@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juandiii809&show_icons=true&theme=tokyonight)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandiii809&layout=compact&theme=tokyonight)
+
+
+
 
