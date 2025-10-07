@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 🐍🐧   💻 **python**,  **linux**,  **C#**,  **php**🖥️ 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandiii809&layout=compact&theme=tokyonight)
-
-
 
 
