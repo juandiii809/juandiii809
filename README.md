@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **juandiii809/juandiii809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👾 
-🐍🐧   💻 **python**,  **linux**,  **C#**,  **php**🖥️ 
+🐍🐧   💻 **python**,  **linux**,  **C#**,  **Asp.Net Core**, **OpenCv**, **Numpy**🖥️ 
 
 
 
