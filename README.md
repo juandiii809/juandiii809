@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👾 
-🐍🐧   💻 **python**,  **linux**,  **C#**,  **Asp.Net Core**, **OpenCv**, **Numpy**🖥️ 
+🐍🐧   💻 **python**,  **linux**,  **C#**,  **Asp.Net Core**.🖥️ 
 
 
 
